@@ -1,7 +1,3 @@
-Here’s a cool README template for your Lahore Arts Council Reservation Site project:
-
----
-
 # Lahore Arts Council Reservation Site
 
 Welcome to the **Lahore Arts Council Reservation Site**! This web application streamlines the process of reserving event spaces, making it easier for users to book and manage their reservations while providing admins with robust management tools.
